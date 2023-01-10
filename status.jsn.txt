@@ -1,0 +1,12 @@
+{
+  "event": "BOOT",
+  "room": "home/DG/elab/light_01",
+  "sensor": "sensors/esp32/esp8266-01",
+  "sensor_MAC": "44:17:93:0D:AA:17",
+  "time": "",
+  "SSID": "pandora-n",
+  "RSSI": -39,
+  "A0in": 592,
+  "temp[0]": 26.6875,
+  "LED": 0
+}
