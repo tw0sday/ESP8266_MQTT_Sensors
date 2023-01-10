@@ -1,0 +1,4 @@
+const char* wifi_ssid     = "<WIFI_name>";  // WLAN;
+const char* wifi_password = "<WIFI_passwd>";
+const char *mqtt_broker = "<Black-Plearl_Server>"; // Black-Plearl Server
+const char *mqtt_broker2 = "<NETCUP_Server>"; // Netcup Server

@@ -45,7 +45,7 @@ unsigned long current_time;     // millis()
 
 // MQTT Broker
 
-const char *mqtt_broker = "10.4.0.106";   // Local Broker on Pi2
+// const char *mqtt_broker = "10.4.0.106";   // Local Broker on Pi2
 const char  *sensor_topic = "sensors/esp32/esp8266-01";
 const char *room_topic = "home/DG/elab/light_01";
 const char *mqtt_username = "esp32";
